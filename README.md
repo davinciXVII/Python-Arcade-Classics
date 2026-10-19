@@ -1,4 +1,4 @@
-# 🕹️ Python Arcade Classics Collection
+# 🕹️ Python Arcade Classics Collection by davinciXVII
 
 Welcome to the **Python Arcade Classics Collection**! This repository is a curated archive of 10 recreated retro engines, platformers, and tactical arcade clones inspired by the legendary NES (Dandy), Sega, and classic desktop browser hits. 
 
